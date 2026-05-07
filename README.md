@@ -29,3 +29,11 @@ The EEG signals are acquired using the NPG Lite module and processed in Raspberr
 - Machine learning-based gesture recognition
 - Wireless control
 - Improved signal filtering
+## Repository Structure
+
+- code/ → Python source files
+- images/ → Project setup images
+- circuit-diagram/ → Wiring and schematics
+
+## Author
+Nitheesh Sanilkumar
